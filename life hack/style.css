@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    border: 1px solid black;
+    width: 45%;
+    align-items: center;
+    text-align: center;
+    margin: 10%;
+}
+
+.container .head{
+    padding: 3%;
+    color: white;
+    background-color: rgb(32, 32, 247);
+}
+
+.form-group
